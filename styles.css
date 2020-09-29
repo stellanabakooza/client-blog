@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    Padding:0;
+}
+body {
+    background-image:url("../images/vegas-landscape.jpg");
+    background: size:cover;
+    background :repeat:no repeat
+}
+nav {
+    width:100%;
+    height:100px;
+    background-color: rgb(216, 14, 216);
+}
+ul {
+    
+}
+
+ul li {
+ list-style:none;  
+    display:inline-block;
+    float:left; 
+}
+ul li a {
+    text-decoration:none;
+    font-size:14Px;
+    font-family:Arial;
+    color:purple
+}
+
+
+p{color:
+font-family:robot;
+}
+{
+    background-image:src=url(images/las-vegas-573600_640.jpg);
+}
+body {
+    background-image:url("images/las-vegas-573600_640.jpg");
+}
+</style>
